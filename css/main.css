@@ -1338,16 +1338,3 @@ body {
   z-index: 999999 !important;
   animation: none !important;
 }
-@media screen and (max-width: 768px) {
-  #tombol-ucapan {
-    display: block !important;
-    position: fixed !important;
-    bottom: 25px !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    z-index: 999999 !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    white-space: nowrap !important;
-  }
-}
