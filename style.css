@@ -35,7 +35,7 @@ button{
     position: absolute;
     width: 150px;
     height: inherit;
-    color: black;
+    color: white;
     font-size: 1.2em;
     border-radius: 30px;
     outline: none;
@@ -50,6 +50,6 @@ button :nth-child(1) {
 }
 button :nth-child(2){
     margin-right: -200px;
-    background: white;
+    background: black;
     color: #e94d58
 }
